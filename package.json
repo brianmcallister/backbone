@@ -8,7 +8,7 @@
     "underscore"  : ">=1.4.3"
   },
   "devDependencies": {
-    "phantomjs": "0.2.2"
+    "phantomjs": "2.1.7"
   },
   "scripts": {
     "test": "phantomjs test/vendor/runner.js test/index.html?noglobals=true"
